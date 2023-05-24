@@ -1,0 +1,2 @@
+F:\cppworkspace\CPP01_HelloWorld\x64\Debug\CPP01_HelloWorld.exe
+F:\cppworkspace\CPP01_HelloWorld\x64\Debug\CPP01_HelloWorld.pdb

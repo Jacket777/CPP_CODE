@@ -1,0 +1,10 @@
+#include "swap.h"
+
+//函数的定义
+void swapTwoNum(int a, int b) {
+	int temp = a;
+	a = b;
+	b = temp;
+	cout << " a = " << a << " b = " << b << endl;
+
+}
