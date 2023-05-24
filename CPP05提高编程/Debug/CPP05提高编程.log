@@ -1,0 +1,3 @@
+﻿  code14_类模板与友元.cpp
+code14_类模板与友元.obj : error LNK2019: 无法解析的外部符号 "void __cdecl printPerson2(class Person<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int>)" (?printPerson2@@YAXV?$Person@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@@@Z)，函数 "void __cdecl test02(void)" (?test02@@YAXXZ) 中引用了该符号
+F:\cppworkspace\CPP05提高编程\Debug\CPP05提高编程.exe : fatal error LNK1120: 1 个无法解析的外部命令
