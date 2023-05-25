@@ -1,3 +1,0 @@
-name: jack
-sex: man
-age: 18
